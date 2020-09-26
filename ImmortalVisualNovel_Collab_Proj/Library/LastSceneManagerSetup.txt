@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Meso_Scene_01.unity
+- path: Assets/Scenes/Germany_Scene_01.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
