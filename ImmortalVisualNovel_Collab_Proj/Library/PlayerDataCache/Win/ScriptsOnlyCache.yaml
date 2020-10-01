@@ -8,6 +8,7 @@ ScriptsOnlyBuild:
     - Fungus.Call
     - Fungus.Character
     - Fungus.Clickable2D
+    - Fungus.CommandCopyBuffer
     - Fungus.CustomTag
     - Fungus.DialogInput
     - Fungus.DragCompleted
@@ -40,6 +41,7 @@ ScriptsOnlyBuild:
     - Fungus.PlaySound
     - Fungus.SaveData
     - Fungus.SaveMenu
+    - Fungus.SavePoint
     - Fungus.Say
     - Fungus.SayDialog
     - Fungus.SelectOnEnable
@@ -52,6 +54,8 @@ ScriptsOnlyBuild:
     - Fungus.Writer
     - Fungus.WriterAudio
     FungusEditor.dll:
+    - Fungus.EditorUtils.BlockEditor
+    - Fungus.EditorUtils.BlockInspector
     - Fungus.EditorUtils.FlowchartWindow
     - Fungus.EditorUtils.FungusEditorResources
     Unity.2D.Animation.Editor.dll:
@@ -214,6 +218,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13790}
     - Class: 114
       Script: {instanceID: 13844}
+    - Class: 114
+      Script: {instanceID: 13920}
     - Class: 114
       Script: {instanceID: 13988}
     - Class: 114
@@ -2712,4 +2718,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Prototype/Prototype.unity
-  playerPath: C:/Users/kassy/Desktop/Vn/ImmortalPrototypeV1.2/ImmortalVisualNovel_Collab_Proj.exe
+  playerPath: C:/Users/kassy/Desktop/Vn/ImmortalPrototypeV1.3/ImmortalVisualNovel_Collab_Proj.exe
