@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     Fungus.dll:
     - Fungus.Block
     - Fungus.BooleanVariable
+    - Fungus.ButtonClicked
     - Fungus.Call
     - Fungus.Character
     - Fungus.Clickable2D
@@ -39,6 +40,7 @@ ScriptsOnlyBuild:
     - Fungus.Parallax
     - Fungus.PlayAmbianceSound
     - Fungus.PlaySound
+    - Fungus.Reset
     - Fungus.SaveData
     - Fungus.SaveMenu
     - Fungus.SavePoint
@@ -195,6 +197,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12936}
     - Class: 114
+      Script: {instanceID: 12966}
+    - Class: 114
       Script: {instanceID: 13018}
     - Class: 114
       Script: {instanceID: 13034}
@@ -264,6 +268,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15338}
     - Class: 114
       Script: {instanceID: 15516}
+    - Class: 114
+      Script: {instanceID: 15552}
     - Class: 114
       Script: {instanceID: 15570}
     - Class: 114
