@@ -4733,18 +4733,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 880.26764, y: 87.51561}
+  scrollPos: {x: 749.24426, y: 28.956038}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 462
-  zoom: 0.7000002
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 875813469}
   selectedCommands: []
   variables:
   - {fileID: 875813445}
@@ -4813,7 +4814,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 139.87056
     y: 132.7105
-    width: 149.42853
+    width: 148
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4854,7 +4855,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 153.77216
     y: 212.43416
-    width: 118.5714
+    width: 118
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4884,7 +4885,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 491.50824
     y: 114.642044
-    width: 125.42854
+    width: 126
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4954,7 +4955,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 743.6098
     y: 269.1309
-    width: 100.2857
+    width: 101
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4997,7 +4998,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 901.4495
     y: 193.49162
-    width: 123.14283
+    width: 123
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5032,7 +5033,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 907.2142
     y: 110.80196
-    width: 111.714264
+    width: 112
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5066,7 +5067,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 907.2225
     y: 271.21356
-    width: 112.85712
+    width: 112
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5155,7 +5156,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1128.0393
     y: 269.11105
-    width: 92.285706
+    width: 93
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5226,7 +5227,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -111.73061
     y: 152.05267
-    width: 76.285706
+    width: 76
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5816,7 +5817,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -251.12103
     y: 203.25049
-    width: 104.857124
+    width: 106
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5852,8 +5853,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -377.63177
-    y: 148.05267
-    width: 78.57142
+    y: 147.05267
+    width: 79
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5961,7 +5962,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -246.6008
     y: 98.13273
-    width: 131.14282
+    width: 132
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6432,8 +6433,8 @@ MonoBehaviour:
   storyText: '"Maybe next time!" You tell her, already starting to walk away. "Take
     care now!" '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 1528918302}
+  portrait: {fileID: 21300000, guid: 75b6e7c8c9b6b4d40ae30dc671be34b7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6776,8 +6777,8 @@ MonoBehaviour:
   storyText: '"Here you go," you tell the old woman. "Sorry it''s not much right
     now..." '
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 1528918302}
+  portrait: {fileID: 21300000, guid: 75b6e7c8c9b6b4d40ae30dc671be34b7, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -8600,7 +8601,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 494.315
     y: 228.67735
-    width: 89.999985
+    width: 90
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9142,7 +9143,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -625.43066
     y: 125.47684
-    width: 91.14284
+    width: 90
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9625,7 +9626,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -493.65244
     y: 35.031586
-    width: 78.57142
+    width: 77
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10188,7 +10189,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 751.1978
     y: 19.903767
-    width: 123.14283
+    width: 124
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10231,7 +10232,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 376.80728
     y: -11.803574
-    width: 137.99997
+    width: 138
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12344,7 +12345,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 3}
+  m_Size: {x: 1.5, y: 1.5}
   m_EdgeRadius: 0
 --- !u!212 &957225387
 SpriteRenderer:
@@ -13737,8 +13738,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 326794691}
   m_HandleRect: {fileID: 326794690}
   m_Direction: 2
-  m_Value: 0.9999998
-  m_Size: 0.6090243
+  m_Value: 1
+  m_Size: 0.6323423
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -15743,7 +15744,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 41.3, y: 38.4}
+  m_Size: {x: 44.45, y: 38.4}
   m_EdgeRadius: 0
 --- !u!212 &1667219637
 SpriteRenderer:
