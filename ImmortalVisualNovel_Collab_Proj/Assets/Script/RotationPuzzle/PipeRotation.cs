@@ -10,6 +10,7 @@ public class PipeRotation : MonoBehaviour
     {
         pP = GetComponent<PipePuzzle>();
     }
+
     public void RotatePipe(GameObject pipe)
     {
 
