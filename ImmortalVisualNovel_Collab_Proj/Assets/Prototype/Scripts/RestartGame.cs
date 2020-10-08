@@ -24,4 +24,16 @@ public class RestartGame : MonoBehaviour
         Application.Quit();
         Debug.Log("Quit has been sucessful");
     }
+
+    public void PauseGame()
+    {
+        Time.timeScale = 0;
+        Debug.Log("Game is paused");
+    }
+
+    public void ResumeGame()
+    {
+        Time.timeScale = 1;
+        Debug.Log("Game has resumed");
+    }
 }
