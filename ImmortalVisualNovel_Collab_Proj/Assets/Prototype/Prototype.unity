@@ -8476,7 +8476,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 470.21448, y: 187.2577}
+  scrollPos: {x: 183.3722, y: -46.95288}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 462
@@ -8488,8 +8488,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 875813454}
-  selectedCommands: []
+  - {fileID: 875813564}
+  selectedCommands:
+  - {fileID: 875813583}
   variables:
   - {fileID: 875813445}
   - {fileID: 875813535}
@@ -8729,7 +8730,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 210.13611
     y: 80.57612
-    width: 122.36844
+    width: 128.94739
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8805,7 +8806,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 453.83734
     y: 254.58517
-    width: 98.68422
+    width: 103.68422
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8844,7 +8845,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 609.5403
     y: 177.51736
-    width: 118.42107
+    width: 125.7895
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8880,7 +8881,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 599.9413
     y: 93.43837
-    width: 109.21054
+    width: 115.263176
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8913,7 +8914,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 566.3133
     y: 308.09653
-    width: 109.21054
+    width: 115.263176
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8998,7 +8999,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 837.1289
     y: 254.56534
-    width: 90.78948
+    width: 95.26317
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9065,7 +9066,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0.33838654
     y: 152.05267
-    width: 75.00001
+    width: 77.36843
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9655,7 +9656,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -156.92227
     y: 179.1937
-    width: 102.63159
+    width: 107.89475
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9691,7 +9692,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -282.86487
     y: 149.24335
-    width: 77.631584
+    width: 80.52632
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9797,7 +9798,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -170.49533
     y: 81.439
-    width: 130.26318
+    width: 136.31581
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9857,9 +9858,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 221.50964
+    x: 226.77281
     y: 147.73883
-    width: 88.157906
+    width: 91.05264
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10008,7 +10009,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 203.22702
     y: -40.727745
-    width: 138.15791
+    width: 144.73688
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12178,7 +12179,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 202.66997
     y: 313.30115
-    width: 155.26318
+    width: 161.57898
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12458,7 +12459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 270
   indentLevel: 0
-  storyText: A golden poop!!!!
+  storyText: A golden key!!!
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13087,7 +13088,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -403.52353
     y: 80.64318
-    width: 89.473694
+    width: 92.10527
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13199,9 +13200,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 731.2414
-    y: 323.30093
-    width: 127.6316
+    x: 732.5572
+    y: 324.61673
+    width: 137.36844
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13594,7 +13595,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -275.03146
     y: -7.3010883
-    width: 76.315796
+    width: 78.42106
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14241,9 +14242,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 276
   indentLevel: 0
-  storyText: 'But at least you have golden poop.
-
-'
+  storyText: With the key in your hand, you wonder what kind of new adventures it
+    will lead you next time?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17251,7 +17251,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 326794690}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.67573076
+  m_Size: 0.6319361
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -18344,7 +18344,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.17384163, y: 0}
   m_AnchorMax: {x: 0.8223236, y: 1}
-  m_AnchoredPosition: {x: -24.5, y: -0.59994507}
+  m_AnchoredPosition: {x: -24.500008, y: -0.59994507}
   m_SizeDelta: {x: -74.98654, y: -1.2000122}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1279128868
