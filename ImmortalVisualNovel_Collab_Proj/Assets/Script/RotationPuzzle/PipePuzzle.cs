@@ -1,11 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PipePuzzle : MonoBehaviour
 {
     //array of pipe tiles
-    public GameObject[] pipe;
+    public Button[] pipe;
+
+    public Button skipBtn;
+    public Button endPuzzle;
 
     //bool to check that puzzle has been complete
     public bool puzzleCompleted;
@@ -29,11 +33,10 @@ public class PipePuzzle : MonoBehaviour
             Mathf.RoundToInt(currentPipes);
 
             //29 is equal to the ammount of pipes that need to be correctly rotated
-            if (Mathf.Abs(currentPipes) > -1 && Mathf.Abs(currentPipes) < 29)
+            if (Mathf.Abs(currentPipes) > -1 && Mathf.Abs(currentPipes) < 34)
             {
                 puzzleCompleted = true;
-                
-
+                //OnWin();
             }
 
             //if puzzles are not facing the right direction then do not complete puzzle
@@ -48,12 +51,23 @@ public class PipePuzzle : MonoBehaviour
         if (puzzleCompleted)
         {
             Debug.Log("Puzzle has been completed");
+            OnWin();
+            skipBtn.gameObject.SetActive(false);
+            endPuzzle.gameObject.SetActive(true);
           
         }
 
         //if not it won't do anything
         else{
             Debug.Log("Puzzle is not complete");
+        }
+    }
+
+    public void OnWin()
+    {
+        for (int t = 0; t < pipe.Length; t++)
+        {
+            pipe[t].interactable = false;
         }
     }
 }
