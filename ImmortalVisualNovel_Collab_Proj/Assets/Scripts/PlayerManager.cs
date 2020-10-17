@@ -30,4 +30,18 @@ public class PlayerManager : MonoBehaviour
         aggressive++;
         Debug.Log("Aggressive points: " + aggressive);
     }
+
+    //set career
+    void SetFarmer()
+    {
+        isFarmer = true;
+    }
+    void SetCrafter()
+    {
+        isCrafter = true;
+    }
+    void SetButcher()
+    {
+        isButcher = true;
+    }
 }
