@@ -33,7 +33,7 @@ public class PipePuzzle : MonoBehaviour
             Mathf.RoundToInt(currentPipes);
 
             //29 is equal to the ammount of pipes that need to be correctly rotated
-            if (Mathf.Abs(currentPipes) > -1 && Mathf.Abs(currentPipes) < 34)
+            if (Mathf.Abs(currentPipes) > -1 && Mathf.Abs(currentPipes) < pipe.Length)
             {
                 puzzleCompleted = true;
                 //OnWin();
