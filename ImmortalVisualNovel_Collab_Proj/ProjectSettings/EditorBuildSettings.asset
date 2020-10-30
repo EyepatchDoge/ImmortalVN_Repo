@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Meso_Scene_01.unity
     guid: 346aa81c32293724d8355c5a89f734d9
+  - enabled: 1
+    path: Assets/Scenes/Meso_Scene_02.unity
+    guid: 9d6dee0ef06121244b0a0e96e79e99b0
   m_configObjects: {}
