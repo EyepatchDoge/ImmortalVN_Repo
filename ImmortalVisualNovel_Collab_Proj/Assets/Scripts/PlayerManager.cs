@@ -14,6 +14,10 @@ public class PlayerManager : MonoBehaviour
     public bool isCrafter = false;
     public bool isButcher = false;
 
+    //relationships
+    public int brotherPoints = 0;
+    public bool doesBrotherTrust = false;
+
     //increment personality points
     void IncrementKind()
     {
@@ -43,5 +47,18 @@ public class PlayerManager : MonoBehaviour
     void SetButcher()
     {
         isButcher = true;
+    }
+
+    //brother trust
+    void AddBrotherTrust()
+    {
+        brotherPoints++;
+    }
+    void CheckBrotherTrust()
+    {
+        if(brotherPoints >= 2)
+        {
+            doesBrotherTrust = true;
+        }
     }
 }
