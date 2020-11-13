@@ -731,7 +731,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -165.84, y: 0.6}
+  m_AnchoredPosition: {x: -155.4, y: -9.8}
   m_SizeDelta: {x: 241.51123, y: 91.948456}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5762336264191750270
@@ -774,9 +774,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Background Music Volume
-
-'
+  m_Text: Sound
 --- !u!1 &9100672875804219156
 GameObject:
   m_ObjectHideFlags: 0
