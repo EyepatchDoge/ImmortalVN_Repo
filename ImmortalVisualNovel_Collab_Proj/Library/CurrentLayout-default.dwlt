@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 145
+  controlID: 1787
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 66
+  controlID: 1683
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 67
+  controlID: 1766
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -333,7 +333,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -346,20 +346,20 @@ MonoBehaviour:
       y: 21
       width: 1143
       height: 382
-    m_Scale: {x: 0.46150306, y: 0.46150306}
-    m_Translation: {x: 571.5, y: 189.81693}
+    m_Scale: {x: 0.3537037, y: 0.3537037}
+    m_Translation: {x: 571.5, y: 191}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1238.345
-      y: -411.30154
-      width: 2476.69
-      height: 827.73016
+      x: -1615.7592
+      y: -540
+      width: 3231.5183
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.37314814
+  m_defaultScale: 0.3537037
   m_LastWindowPixelSize: {x: 1143, y: 403}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -394,10 +394,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 16}
-      m_SelectedIDs: e4480000
-      m_LastClickedID: 18660
-      m_ExpandedIDs: 72f8ffff7af8ffff5cfbffff5efbffffc8410000f4430000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 7a5c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 5efbffff2a480000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -459,7 +459,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -62.447823, y: -16.76658, z: -15.986921}
     speed: 2
-    m_Value: {x: -63.602177, y: -16.410566, z: -15.795585}
+    m_Value: {x: -62.447823, y: -16.76658, z: -15.986921}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -511,7 +511,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 5.744456
     speed: 2
-    m_Value: 5.0611944
+    m_Value: 5.744456
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -600,20 +600,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites/Props
+    - Assets/Sounds/Music
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Sprites/Props
+  - Assets/Sounds/Music
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\GitHub3\ImmortalVN_Repo\ImmortalVisualNovel_Collab_Proj
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a560000
-    m_LastClickedID: 22058
-    m_ExpandedIDs: 00000000f0550000f2550000f4550000f6550000f8550000fa550000fc550000
+    m_SelectedIDs: 92560000
+    m_LastClickedID: 22162
+    m_ExpandedIDs: 0000000006560000085600000a5600000c5600000e560000105600001256000038560000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -641,7 +641,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f0550000f2550000f4550000f6550000f8550000fa550000fc550000
+    m_ExpandedIDs: 0000000006560000085600000a5600000c5600000e5600001056000012560000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
