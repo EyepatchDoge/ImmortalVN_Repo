@@ -12,11 +12,11 @@ public class RestartGame : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        /*if (Input.GetKeyDown(KeyCode.Escape))
         {
             Application.Quit();
             Debug.Log("You have left the game.");
-        }
+        }*/
     }
 
     public void QuitTheGame()
