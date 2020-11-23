@@ -25354,7 +25354,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 21
   m_TargetDisplay: 0
 --- !u!82 &1863862522
 AudioSource:
