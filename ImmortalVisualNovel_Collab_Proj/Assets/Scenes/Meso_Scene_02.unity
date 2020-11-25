@@ -16948,8 +16948,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1197159776}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.34000015, y: 0.7099991, z: 95.79492}
-  m_LocalScale: {x: 1.5, y: 1, z: 1}
+  m_LocalPosition: {x: 5.85, y: -1.48, z: 95.79492}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 183803834}
   m_RootOrder: 0
@@ -16973,7 +16973,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b7f8f3eaabc8d26449a9db0da9435775, type: 2}
+  - {fileID: 2100000, guid: b5ad4abba54cdf24c8f71cedcfe65e11, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -17101,7 +17101,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 2.26
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -17154,7 +17154,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.35
+      scalar: 0.1
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -17270,7 +17270,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.52
+      scalar: 0.37
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -17732,7 +17732,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 9.76
+      value: 3.04
       mode: 0
       spread: 0
       speed:
@@ -17789,9 +17789,9 @@ ParticleSystem:
           m_PostInfinity: 2
           m_RotationOrder: 4
     arc:
-      value: 360
+      value: 359.67
       mode: 0
-      spread: 0
+      spread: 0.63
       speed:
         serializedVersion: 2
         minMaxState: 0
@@ -20308,7 +20308,7 @@ ParticleSystem:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
-    range: {x: 0.1, y: 0.2}
+    range: {x: 0.01, y: 0.05}
     separateAxes: 0
   RotationBySpeedModule:
     enabled: 0
