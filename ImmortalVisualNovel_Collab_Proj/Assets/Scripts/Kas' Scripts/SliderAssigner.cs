@@ -5,17 +5,22 @@ using UnityEngine.UI;
 
 public class SliderAssigner : MonoBehaviour
 {
-    public Slider volume;
+    public Slider musicVolume;
+  
 
     private void Awake()
     {
-        volume = GetComponent<Slider>();
-        volume.value = SettingsMenu.Instance.volume;
-        volume.onValueChanged.AddListener(OnValueChange);
+        musicVolume = GetComponent<Slider>();
+        musicVolume.value = SettingsMenu.Instance.BackgroundMusicVolume;
+        musicVolume.onValueChanged.AddListener(OnValueChange);
+
+       
     }
 
     public void OnValueChange(float value)
     {
         SettingsMenu.Instance.SetLevel(value);
     }
+
+    
 }

@@ -8,18 +8,25 @@ using UnityEngine.UIElements;
 public class SettingsMenu : SingletonManager<SettingsMenu>
 {
 
-    public AudioMixer mixer;
+    public AudioMixer backgroundMixer;
+    public AudioMixer sfxMixer;
 
     public void SetLevel(float sliderValue)
     {
-        mixer.SetFloat("MusicVol", Mathf.Log10(sliderValue) * 20);
+        backgroundMixer.SetFloat("MusicVol", Mathf.Log10(sliderValue) * 20);
+        
     }
 
-    public float volume
+    public void SetSFXLevel(float sliderValue)
+    {
+        sfxMixer.SetFloat("SFXVol", Mathf.Log10(sliderValue) * 20);
+    }
+
+    public float BackgroundMusicVolume
     {
         get
         {
-            if (mixer.GetFloat("MusicVol", out float value))
+            if (backgroundMixer.GetFloat("MusicVol", out float value))
             {
                 return Mathf.Pow(10, value) * 20;
             }
@@ -30,4 +37,18 @@ public class SettingsMenu : SingletonManager<SettingsMenu>
         }
     }
 
+    public float SFXMusicVolume
+    {
+        get
+        {
+            if (sfxMixer.GetFloat("SFXVol", out float value))
+            {
+                return Mathf.Pow(10, value) * 20;
+            }
+            else
+            {
+                return -1f;
+            }
+        }
+    }
 }
