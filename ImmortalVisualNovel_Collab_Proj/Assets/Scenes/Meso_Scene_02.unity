@@ -3330,7 +3330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Uli
-  nameColor: {r: 0.6509434, g: 0.15011667, b: 0, a: 1}
+  nameColor: {r: 0.745283, g: 0.30343303, b: 0.17225882, a: 1}
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: e677cc17ea686804f80a2a71c0e3ae40, type: 3}
@@ -7779,7 +7779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Erish
-  nameColor: {r: 0.14630195, g: 0.3679245, b: 0.13710395, a: 1}
+  nameColor: {r: 0.3118804, g: 1, b: 0.28773582, a: 1}
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: af736f2ae0392dc47ae233b3c39fb36d, type: 3}
@@ -11531,7 +11531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Adamen
-  nameColor: {r: 0.39311787, g: 0.25013348, b: 0.6886792, a: 1}
+  nameColor: {r: 0.4974732, g: 0.25943398, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: 0e654694cba54164dab26243faa7ec59, type: 3}
@@ -11585,7 +11585,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 42e8bb2f6fd646e47985634783f8cfb4, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.78
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -22328,7 +22328,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Hashur
-  nameColor: {r: 0.4156863, g: 0, b: 0, a: 1}
+  nameColor: {r: 0.6037736, g: 0.14524741, b: 0.14524741, a: 1}
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: 94034086112b9fc45b46c77c5dff583a, type: 3}
@@ -23255,7 +23255,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: b83b55bb9ada6eb4391db809db6f39e6, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.78
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -26913,7 +26913,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: be41b3dfb271b094093e596f4066d064, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.78
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -84838,8 +84838,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -914.764
-    y: 115.28049
+    x: -917.8568
+    y: 197.7548
     width: 129.38144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -85787,7 +85787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -2432.3213, y: 177.54}
+  scrollPos: {x: 1315.1005, y: 208.46776}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 280
@@ -85799,9 +85799,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 6826194887207498244}
-  selectedCommands:
-  - {fileID: 6826194887207498545}
+  - {fileID: 6826194887207501667}
+  selectedCommands: []
   variables:
   - {fileID: 6826194887207501769}
   - {fileID: 6826194887207501768}
@@ -86072,7 +86071,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -1079.9976
-    y: -62.453392
+    y: 6.618778
     width: 84.020615
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -86127,8 +86126,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -744.49963
-    y: -51.31138
+    x: -745.5306
+    y: 9.513355
     width: 122.16495
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
