@@ -4647,6 +4647,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Particle System_FireFliesFinal
       objectReference: {fileID: 0}
+    - target: {fileID: 5544372749616907566, guid: 3bb5d94e0f192104581739f9d40fcf0f,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].time
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5544372749616907566, guid: 3bb5d94e0f192104581739f9d40fcf0f,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].value
+      value: 0.5810814
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bb5d94e0f192104581739f9d40fcf0f, type: 3}
 --- !u!224 &5623318141236220735
