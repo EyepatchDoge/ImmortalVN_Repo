@@ -8780,7 +8780,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000018477, y: 0}
+  m_AnchoredPosition: {x: -0.000018477, y: -36}
   m_SizeDelta: {x: 498.86, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &500740706
@@ -10209,7 +10209,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 501, y: 130}
+  m_SizeDelta: {x: 626.44, y: 168.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &673955619
 MonoBehaviour:
@@ -11452,7 +11452,7 @@ Transform:
   m_Children:
   - {fileID: 942381212}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &824542794
 GameObject:
@@ -12452,7 +12452,7 @@ Transform:
   - {fileID: 2083132291}
   - {fileID: 824542795}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &906983469
 GameObject:
@@ -12492,7 +12492,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 501, y: 130}
+  m_SizeDelta: {x: 626.44, y: 168.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &906983471
 MonoBehaviour:
@@ -13363,7 +13363,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &971959469
 MonoBehaviour:
@@ -14087,7 +14087,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 501, y: 130}
+  m_SizeDelta: {x: 619.5, y: 165.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1037358357
 MonoBehaviour:
@@ -14595,7 +14595,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 501, y: 130}
+  m_SizeDelta: {x: 619.5, y: 165.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1066920768
 MonoBehaviour:
@@ -16027,7 +16027,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 501, y: 130}
+  m_SizeDelta: {x: 619.5, y: 165.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1158337701
 MonoBehaviour:
@@ -17091,7 +17091,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 501, y: 130}
+  m_SizeDelta: {x: 626.44, y: 168.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1216732513
 MonoBehaviour:
@@ -19956,8 +19956,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000018477, y: 0}
-  m_SizeDelta: {x: 498.86, y: 0}
+  m_AnchoredPosition: {x: -0.000018477, y: -34}
+  m_SizeDelta: {x: 639.7, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1472474211
 MonoBehaviour:
@@ -20263,7 +20263,7 @@ Transform:
   - {fileID: 2005277958}
   - {fileID: 412249760}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1531109373
 GameObject:
@@ -26848,7 +26848,7 @@ Transform:
   - {fileID: 2137766474}
   - {fileID: 1319346806}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1708568946
 GameObject:
@@ -41863,7 +41863,7 @@ Transform:
   - {fileID: 473399154}
   - {fileID: 33892227}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2055347395
 GameObject:
@@ -42192,7 +42192,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2083132290
 GameObject:
@@ -68730,6 +68730,73 @@ GameObject:
   - component: {fileID: 6826194887207499053}
   - component: {fileID: 6826194887207499052}
   - component: {fileID: 6826194887207498717}
+  - component: {fileID: 6826194887207499148}
+  - component: {fileID: 6826194887207499147}
+  - component: {fileID: 6826194887207499151}
+  - component: {fileID: 6826194887207499150}
+  - component: {fileID: 6826194887207499149}
+  - component: {fileID: 6826194887207499152}
+  - component: {fileID: 6826194887207499155}
+  - component: {fileID: 6826194887207499154}
+  - component: {fileID: 6826194887207499153}
+  - component: {fileID: 6826194887207499157}
+  - component: {fileID: 6826194887207499156}
+  - component: {fileID: 6826194887207499158}
+  - component: {fileID: 6826194887207499159}
+  - component: {fileID: 6826194887207499160}
+  - component: {fileID: 6826194887207499161}
+  - component: {fileID: 6826194887207499162}
+  - component: {fileID: 6826194887207499163}
+  - component: {fileID: 6826194887207499170}
+  - component: {fileID: 6826194887207499169}
+  - component: {fileID: 6826194887207499168}
+  - component: {fileID: 6826194887207499167}
+  - component: {fileID: 6826194887207499166}
+  - component: {fileID: 6826194887207499165}
+  - component: {fileID: 6826194887207499164}
+  - component: {fileID: 6826194887207499171}
+  - component: {fileID: 6826194887207499173}
+  - component: {fileID: 6826194887207499172}
+  - component: {fileID: 6826194887207499174}
+  - component: {fileID: 6826194887207499175}
+  - component: {fileID: 6826194887207499176}
+  - component: {fileID: 6826194887207499177}
+  - component: {fileID: 6826194887207499178}
+  - component: {fileID: 6826194887207499179}
+  - component: {fileID: 6826194887207499180}
+  - component: {fileID: 6826194887207499181}
+  - component: {fileID: 6826194887207499182}
+  - component: {fileID: 6826194887207499183}
+  - component: {fileID: 6826194887207499184}
+  - component: {fileID: 6826194887207499185}
+  - component: {fileID: 6826194887207499186}
+  - component: {fileID: 6826194887207499187}
+  - component: {fileID: 6826194887207499188}
+  - component: {fileID: 6826194887207499189}
+  - component: {fileID: 6826194887207499190}
+  - component: {fileID: 6826194887207499191}
+  - component: {fileID: 6826194887207499192}
+  - component: {fileID: 6826194887207499193}
+  - component: {fileID: 6826194887207499194}
+  - component: {fileID: 6826194887207499195}
+  - component: {fileID: 6826194887207499196}
+  - component: {fileID: 6826194887207499197}
+  - component: {fileID: 6826194887207499198}
+  - component: {fileID: 6826194887207499199}
+  - component: {fileID: 6826194887207499200}
+  - component: {fileID: 6826194887207499201}
+  - component: {fileID: 6826194887207499202}
+  - component: {fileID: 6826194887207499203}
+  - component: {fileID: 6826194887207499206}
+  - component: {fileID: 6826194887207499205}
+  - component: {fileID: 6826194887207499204}
+  - component: {fileID: 6826194887207499207}
+  - component: {fileID: 6826194887207499208}
+  - component: {fileID: 6826194887207499210}
+  - component: {fileID: 6826194887207499209}
+  - component: {fileID: 6826194887207499211}
+  - component: {fileID: 6826194887207499213}
+  - component: {fileID: 6826194887207499212}
   m_Layer: 0
   m_Name: NarrativeFlowchart
   m_TagString: Untagged
@@ -68968,7 +69035,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 708.0662
     y: -138.99036
-    width: 175.71432
+    width: 194.2308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -69002,7 +69069,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 526.4225
     y: -121.518585
-    width: 107.14287
+    width: 111.53848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -69042,7 +69109,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 356.60504
     y: -126.826294
-    width: 79.387764
+    width: 82.69232
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -69053,6 +69120,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498103}
   - {fileID: 6826194887207497914}
+  - {fileID: 6826194887207499158}
   - {fileID: 6826194887207498189}
   - {fileID: 6826194887207498095}
   - {fileID: 6826194887207497915}
@@ -69178,10 +69246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 361
   indentLevel: 0
-  storyText: 'It went off without a hitch! I let Hashur handle the unplanned trades
-    this time, since he was extra helpful this morning.
-
-'
+  storyText: "It went off without a hitch! \n"
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -69492,7 +69557,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 516.4962
     y: -1.9657764
-    width: 134.89798
+    width: 144.2308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -69674,7 +69739,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1056.9794
     y: 273.28476
-    width: 85.91838
+    width: 90.38463
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -69690,13 +69755,16 @@ MonoBehaviour:
   - {fileID: 6826194887207498153}
   - {fileID: 6826194887207498259}
   - {fileID: 6826194887207498152}
+  - {fileID: 6826194887207499170}
   - {fileID: 6826194887207498151}
   - {fileID: 6826194887207498508}
   - {fileID: 6826194887207498150}
+  - {fileID: 6826194887207499169}
   - {fileID: 6826194887207498507}
   - {fileID: 6826194887207498506}
   - {fileID: 6826194887207498505}
   - {fileID: 6826194887207498155}
+  - {fileID: 6826194887207499168}
   - {fileID: 6826194887207498156}
   - {fileID: 6826194887207498263}
   - {fileID: 6826194887207498157}
@@ -69704,6 +69772,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498161}
   - {fileID: 6826194887207498257}
   - {fileID: 6826194887207498160}
+  - {fileID: 6826194887207499167}
   - {fileID: 6826194887207498258}
   - {fileID: 6826194887207498504}
   - {fileID: 6826194887207498158}
@@ -69751,7 +69820,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 787.4373
     y: -38.645126
-    width: 118.57145
+    width: 125.00002
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -70523,7 +70592,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1190.664
     y: 55.17428
-    width: 115.30614
+    width: 125.00002
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -70544,6 +70613,7 @@ MonoBehaviour:
   - {fileID: 6826194887207497974}
   - {fileID: 6826194887207498110}
   - {fileID: 6826194887207497973}
+  - {fileID: 6826194887207499162}
   - {fileID: 6826194887207497977}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207497961
@@ -70562,7 +70632,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1024.609
     y: 52.021942
-    width: 113.67349
+    width: 117.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -70576,8 +70646,10 @@ MonoBehaviour:
   - {fileID: 6826194887207498185}
   - {fileID: 6826194887207498997}
   - {fileID: 6826194887207497967}
+  - {fileID: 6826194887207499160}
   - {fileID: 6826194887207498118}
   - {fileID: 6826194887207497966}
+  - {fileID: 6826194887207499161}
   - {fileID: 6826194887207498115}
   - {fileID: 6826194887207497965}
   - {fileID: 6826194887207497969}
@@ -70601,7 +70673,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 822.3157
     y: 62.165092
-    width: 130.00003
+    width: 142.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -70616,6 +70688,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498998}
   - {fileID: 6826194887207498117}
   - {fileID: 6826194887207497964}
+  - {fileID: 6826194887207499159}
   - {fileID: 6826194887207497979}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207497963
@@ -70662,8 +70735,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 413
   indentLevel: 0
-  storyText: "My journal? What\u2019re you doing with that? You and I both know that
-    you haven\u2019t learned to read yet.\r\n\n"
+  storyText: "My journal? What\u2019re you doing with that? "
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -70718,8 +70790,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 415
   indentLevel: 0
-  storyText: "Haha! You\u2019re not serious, are you? You won\u2019t last a minute
-    against me with those twig arms of yours.\r\n"
+  storyText: "Haha! You\u2019re not serious, are you? "
   description: 
   character: {fileID: 1214148667}
   portrait: {fileID: 0}
@@ -70746,8 +70817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 414
   indentLevel: 0
-  storyText: "Okay, little brother. I\u2019ll level with ya. Win an arm wrestle against
-    me right now, and I\u2019ll let this go, no questions!\r\n"
+  storyText: "Okay, little brother. I\u2019ll level with ya. \n"
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -70914,8 +70984,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 424
   indentLevel: 0
-  storyText: "Good. Don\u2019t kid around with my stuff. You can\u2019t even read
-    yet, so leave it alone, okay?\r\n"
+  storyText: "Good. Don\u2019t kid around with my stuff. \n"
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -71000,7 +71069,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1041.573
     y: 174.07846
-    width: 130.00003
+    width: 138.46156
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -71019,6 +71088,7 @@ MonoBehaviour:
   - {fileID: 6826194887207497984}
   - {fileID: 6826194887207498146}
   - {fileID: 6826194887207497985}
+  - {fileID: 6826194887207499163}
   - {fileID: 6826194887207497986}
   - {fileID: 6826194887207498142}
   - {fileID: 6826194887207497987}
@@ -71258,8 +71328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 434
   indentLevel: 0
-  storyText: " I\u2019ve seen you with the book before. I thought it was just something
-    you were using to practise, I didn\u2019t realize you were writing. I swear.\r\n"
+  storyText: " I\u2019ve seen you with the book before.\n"
   description: 
   character: {fileID: 1214148667}
   portrait: {fileID: 0}
@@ -71315,7 +71384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 436
   indentLevel: 0
-  storyText: 'Okay, I believe you. Tell you what - how about I help you practice
+  storyText: 'Okay, I believe you. Tell you what - how about I help you practise
     reading on our days off?
 
 '
@@ -72313,7 +72382,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1532.2284
     y: -176.87042
-    width: 87.551025
+    width: 92.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -72691,8 +72760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 784
   indentLevel: 0
-  storyText: "Locked? Hashur must\u2019ve thought I left the doors open by accident\u2026
-    I\u2019d better make quick work of the lock, or I really will be late!\r\n\n"
+  storyText: "Locked? Hashur must\u2019ve thought I left the doors open by accident\u2026 "
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -72719,8 +72787,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 783
   indentLevel: 0
-  storyText: "I used to relish in little moments of solitude like these, but now\u2026
-    they just make me think of how I\u2019ll have a whole eternity of time to myself.\r\n"
+  storyText: "I used to relish in little moments of solitude like these, but now\u2026 "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -72877,7 +72944,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -446.24765
     y: -165.26343
-    width: 162.65309
+    width: 171.15387
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -72941,8 +73008,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1522.0178
-    y: 371.7841
-    width: 130.00003
+    y: 370.29156
+    width: 138.46156
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -73755,7 +73822,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1014.2496
     y: -488.71237
-    width: 134.89798
+    width: 142.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -76093,10 +76160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 646
   indentLevel: 0
-  storyText: 'And what did I hear your father tell me, Hashur? Did you take the free
-    trades into your own hands today?
-
-'
+  storyText: 'And what did I hear your father tell me, Hashur? '
   description: 
   character: {fileID: 435928197}
   portrait: {fileID: 0}
@@ -76152,8 +76216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 644
   indentLevel: 0
-  storyText: "That\u2019s my wife! This new agreement will help both our towns\u2026
-    plus, some of the townspeople who haven\u2019t established themselves yet.\r\n"
+  storyText: "That\u2019s my wife! "
   description: 
   character: {fileID: 769302403}
   portrait: {fileID: 0}
@@ -76235,9 +76298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 647
   indentLevel: 0
-  storyText: "As my family talked, I felt my mind wandering to my journal. My hand
-    itched to write and record the confliction that\u2019s been running free in my
-    mind.\r\n"
+  storyText: "As my family talked, I felt my mind wandering to my journal. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -76375,9 +76436,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 651
   indentLevel: 0
-  storyText: "Yes, I can see that. I asked if you wanted to have some extra time
-    to relax tonight. Those dark circles under your eyes won\u2019t get any better
-    if you keep this up.\r\n"
+  storyText: Yes, I can see that. I asked if you wanted to have some extra time to
+    relax tonight.
   description: 
   character: {fileID: 435928197}
   portrait: {fileID: 0}
@@ -77049,7 +77109,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3184.2402
     y: -61.086876
-    width: 102.24491
+    width: 105.76924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -78808,7 +78868,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2430.276
     y: 394.97516
-    width: 156.12247
+    width: 165.38464
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -78951,7 +79011,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2721.5076
     y: -64.06589
-    width: 156.12247
+    width: 163.46158
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -78991,7 +79051,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2624.3423
     y: 387.18124
-    width: 98.97961
+    width: 103.84617
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -79061,7 +79121,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2740.5503
     y: 30.983452
-    width: 133.26532
+    width: 144.2308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -79072,6 +79132,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498049}
   - {fileID: 6826194887207498228}
+  - {fileID: 6826194887207499177}
   - {fileID: 6826194887207498606}
   - {fileID: 6826194887207498227}
   - {fileID: 6826194887207498607}
@@ -79079,6 +79140,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498225}
   - {fileID: 6826194887207498223}
   - {fileID: 6826194887207498220}
+  - {fileID: 6826194887207499178}
   - {fileID: 6826194887207498222}
   - {fileID: 6826194887207498219}
   - {fileID: 6826194887207498622}
@@ -79480,7 +79542,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2759.1497
     y: 140.4624
-    width: 79.387764
+    width: 82.69232
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -79498,7 +79560,9 @@ MonoBehaviour:
   - {fileID: 6826194887207498604}
   - {fileID: 6826194887207498239}
   - {fileID: 6826194887207498238}
+  - {fileID: 6826194887207499179}
   - {fileID: 6826194887207498236}
+  - {fileID: 6826194887207499180}
   - {fileID: 6826194887207498235}
   - {fileID: 6826194887207498234}
   - {fileID: 6826194887207499057}
@@ -79593,7 +79657,7 @@ MonoBehaviour:
   itemId: 1119
   indentLevel: 0
   storyText: 'I enter a low-hanging stone doorway built into the side of a hill,
-    descending barely-visible stairs. The temperature drops with every step I take.
+    descending barely-visible stairs.
 
 '
   description: 
@@ -79822,9 +79886,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1113
   indentLevel: 0
-  storyText: "This is crazy. But I\u2019m going to do it. Clearly this map came to
-    me for a reason, and if I can learn even a bit more about immortality, it\u2019ll
-    be worth it.\r\n"
+  storyText: "This is crazy. But I\u2019m going to do it."
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -80040,7 +80102,7 @@ MonoBehaviour:
   itemId: 1129
   indentLevel: 0
   storyText: "A strange sense of d\xE9j\xE0 vu crept in as I approached the odd statue
-    in the center of the cave. Like I had seen it before.\r\n"
+    in the center of the cave. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -80097,8 +80159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1128
   indentLevel: 0
-  storyText: "Spinning slowly around, I take in the details of the cave. It doesn\u2019t
-    look like anyone has been here in a long while.\r\n"
+  storyText: Spinning slowly around, I take in the details of the cave.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -80181,7 +80242,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2756.871
     y: 230.28789
-    width: 103.87756
+    width: 109.6154
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -80259,7 +80320,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2926.736
     y: 143.27893
-    width: 185.51024
+    width: 196.15388
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -80288,6 +80349,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498598}
   - {fileID: 6826194887207498543}
   - {fileID: 6826194887207498542}
+  - {fileID: 6826194887207499181}
   - {fileID: 6826194887207499137}
   - {fileID: 6826194887207498541}
   - {fileID: 6826194887207498580}
@@ -81297,7 +81359,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -407.47012
     y: -45.628952
-    width: 85.91838
+    width: 90.38463
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -81308,8 +81370,10 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498274}
   - {fileID: 6826194887207498285}
+  - {fileID: 6826194887207499150}
   - {fileID: 6826194887207499030}
   - {fileID: 6826194887207499029}
+  - {fileID: 6826194887207499149}
   - {fileID: 6826194887207498283}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207498276
@@ -81632,7 +81696,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -253.73865
     y: -58.740654
-    width: 90.81634
+    width: 96.153854
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -81645,6 +81709,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498282}
   - {fileID: 6826194887207499028}
   - {fileID: 6826194887207499027}
+  - {fileID: 6826194887207499152}
   - {fileID: 6826194887207498280}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207498279
@@ -81663,7 +81728,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -564.53986
     y: -57.824554
-    width: 85.91838
+    width: 90.38463
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -81674,6 +81739,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498277}
   - {fileID: 6826194887207498286}
+  - {fileID: 6826194887207499151}
   - {fileID: 6826194887207499032}
   - {fileID: 6826194887207499031}
   - {fileID: 6826194887207498284}
@@ -81715,7 +81781,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -435.1083
     y: 48.67387
-    width: 143.06125
+    width: 153.84619
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -81729,6 +81795,7 @@ MonoBehaviour:
   - {fileID: 6826194887207499001}
   - {fileID: 6826194887207498289}
   - {fileID: 6826194887207498288}
+  - {fileID: 6826194887207499155}
   - {fileID: 6826194887207498611}
   - {fileID: 6826194887207498291}
   - {fileID: 6826194887207498612}
@@ -81820,8 +81887,7 @@ MonoBehaviour:
   itemId: 801
   indentLevel: 0
   storyText: "This works out well - you\u2019d be surprised at the kinds of things
-    people are willing to trade for. On the other side of the rivers, everything
-    from jewelry to tools goes for a decent price.\r\n"
+    people are willing to trade for. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -81848,11 +81914,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 800
   indentLevel: 0
-  storyText: 'This works out well, because I grow enough produce to pay the porters
-    with. They bring all kinds of things from the other sides of the river - sometimes
-    spices, sometimes silks.
-
-'
+  storyText: "This works out well, because I grow enough produce to pay the porters
+    with. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -81900,8 +81963,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 809
   indentLevel: 0
-  storyText: "Don\u2019t get me wrong, he and I get along well. But teenage boys
-    aren\u2019t usually known for their initiative."
+  storyText: "Don\u2019t get me wrong, he and I get along well. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -82485,7 +82547,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1202.5245
     y: -399.32352
-    width: 126.73472
+    width: 136.53848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -82519,7 +82581,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1013.953
     y: -397.89502
-    width: 133.26532
+    width: 144.2308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -82557,7 +82619,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 824.2453
     y: -399.4361
-    width: 147.95921
+    width: 163.46158
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -83408,7 +83470,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1025.6714
     y: -312.18057
-    width: 105.51022
+    width: 113.461555
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -83806,7 +83868,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1678.57
     y: -75.392235
-    width: 130.00003
+    width: 138.46156
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -83817,6 +83879,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498344}
   - {fileID: 6826194887207498345}
+  - {fileID: 6826194887207499164}
   - {fileID: 6826194887207498350}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207498342
@@ -83835,7 +83898,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1511.6322
     y: -73.11414
-    width: 131.63268
+    width: 144.2308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -83846,6 +83909,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498346}
   - {fileID: 6826194887207498347}
+  - {fileID: 6826194887207499165}
   - {fileID: 6826194887207498352}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207498343
@@ -83864,7 +83928,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1334.5702
     y: -70.42848
-    width: 139.79594
+    width: 150.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -83874,6 +83938,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 6826194887207498349}
+  - {fileID: 6826194887207499166}
   - {fileID: 6826194887207498348}
   - {fileID: 6826194887207498353}
   suppressAllAutoSelections: 0
@@ -84043,10 +84108,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 893
   indentLevel: 0
-  storyText: 'So sue me - after a hard day, causing some mischief is all I need to
-    take the edge off. But tonight...
-
-'
+  storyText: "So sue me - after a hard day, causing some mischief is all I need to
+    take the edge off. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -84226,7 +84289,7 @@ MonoBehaviour:
   itemId: 892
   indentLevel: 0
   storyText: "There\u2019s nothing like letting loose after a long day, and there
-    are always some fun faces in the night time crowd. But tonight\u2026"
+    are always some fun faces in the night time crowd. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -84406,7 +84469,7 @@ MonoBehaviour:
   itemId: 891
   indentLevel: 0
   storyText: "After a long day of work, there\u2019s something refreshing about catching
-    up with neighbours and swapping stories. But tonight\u2026\r\n"
+    up with neighbours and swapping stories. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -84456,7 +84519,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1545.1782
     y: 42.845566
-    width: 71.224495
+    width: 73.07693
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -84634,7 +84697,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1400.7761
     y: 151.10896
-    width: 107.14287
+    width: 111.53848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -84653,6 +84716,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498370}
   - {fileID: 6826194887207498369}
   - {fileID: 6826194887207498371}
+  - {fileID: 6826194887207499171}
   - {fileID: 6826194887207498373}
   - {fileID: 6826194887207498372}
   - {fileID: 6826194887207498378}
@@ -84793,7 +84857,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1664.8846
     y: 154.89824
-    width: 136.53064
+    width: 146.15387
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -85009,9 +85073,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 920
   indentLevel: 0
-  storyText: "Some otherworldly force found me and it didn\u2019t want to let go.
-    I felt every cell in my body split and then vanish entirely. Hours passed of
-    this metamorphosis\u2026\r\n"
+  storyText: "Some otherworldly force found me and it didn\u2019t want to let go."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -85236,7 +85298,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1532.9097
     y: 250.5283
-    width: 107.14287
+    width: 115.384636
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -85846,7 +85908,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1943.3541
     y: -111.68583
-    width: 187.1429
+    width: 203.84619
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -85863,6 +85925,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498401}
   - {fileID: 6826194887207498400}
   - {fileID: 6826194887207498399}
+  - {fileID: 6826194887207499173}
   - {fileID: 6826194887207498402}
   - {fileID: 6826194887207498404}
   - {fileID: 6826194887207498403}
@@ -85881,9 +85944,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 953
   indentLevel: 0
-  storyText: " I found a rock close to the shore and sat down, pulling out my book
-    as I did. There were so many feelings weighing me down, but the thing I was most
-    worried about was\u2026"
+  storyText: ' I found a rock close to the shore and sat down, pulling out my book
+    as I did. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -86047,7 +86109,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2131.7607
     y: -29.465836
-    width: 81.02042
+    width: 84.615395
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -86076,9 +86138,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1985.8204
+    x: 1987.3829
     y: -30.863953
-    width: 108.77553
+    width: 117.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -86109,7 +86171,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1839.4846
     y: -13.939219
-    width: 97.346954
+    width: 100.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -86445,9 +86507,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1976.2308
+    x: 1977.7933
     y: 49.957977
-    width: 130.00003
+    width: 142.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -86652,7 +86714,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1990.7747
     y: 155.89027
-    width: 103.87756
+    width: 109.6154
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -86664,6 +86726,7 @@ MonoBehaviour:
   - {fileID: 6826194887207499006}
   - {fileID: 6826194887207498614}
   - {fileID: 6826194887207498433}
+  - {fileID: 6826194887207499172}
   - {fileID: 6826194887207499005}
   - {fileID: 6826194887207498436}
   - {fileID: 6826194887207498492}
@@ -86671,6 +86734,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498491}
   - {fileID: 6826194887207499008}
   - {fileID: 6826194887207498434}
+  - {fileID: 6826194887207499174}
   - {fileID: 6826194887207499007}
   - {fileID: 6826194887207498439}
   - {fileID: 6826194887207498490}
@@ -87210,8 +87274,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 984
   indentLevel: 0
-  storyText: '{i}To you who finds these words; I am The Forgotten. We are the same
-    - our hearts beat to an identical rhythm.{/i}'
+  storyText: '{i}To you who finds these words; I am The Forgotten.{/i}'
   description: 
   character: {fileID: 1429617018}
   portrait: {fileID: 0}
@@ -87239,7 +87302,7 @@ MonoBehaviour:
   itemId: 987
   indentLevel: 0
   storyText: "{i}Now I spend each cycle of the moon searching for something to cure
-    this curse. I seek mortality.\r {/i}\n"
+    this curse.\r {/i}\n"
   description: 
   character: {fileID: 1429617018}
   portrait: {fileID: 0}
@@ -88067,7 +88130,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2000.2832
     y: 227.05373
-    width: 74.48981
+    width: 76.92308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -88080,6 +88143,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498450}
   - {fileID: 6826194887207498452}
   - {fileID: 6826194887207498451}
+  - {fileID: 6826194887207499175}
   - {fileID: 6826194887207498412}
   - {fileID: 6826194887207498482}
   - {fileID: 6826194887207498453}
@@ -88133,8 +88197,7 @@ MonoBehaviour:
   itemId: 1003
   indentLevel: 0
   storyText: "{i} Elusive are these things - each is kept in a place where the walls
-    between dying and everliving are thin. But I have located one, in a village of
-    sand and waterways.\r\r{/i}\n"
+    between dying and everliving are thin.\r\r{/i}\n"
   description: 
   character: {fileID: 1429617018}
   portrait: {fileID: 0}
@@ -88378,7 +88441,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2197.2202
     y: 297.37408
-    width: 149.59186
+    width: 163.46158
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -88408,7 +88471,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1968.0588
     y: 315.34253
-    width: 170.81636
+    width: 184.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -88439,7 +88502,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1817.1733
     y: 299.36835
-    width: 115.30614
+    width: 123.07694
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -88712,7 +88775,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1993.9891
     y: 481.56848
-    width: 151.22452
+    width: 159.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -88726,6 +88789,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498478}
   - {fileID: 6826194887207498224}
   - {fileID: 6826194887207498477}
+  - {fileID: 6826194887207499176}
   - {fileID: 6826194887207498221}
   - {fileID: 6826194887207498476}
   - {fileID: 6826194887207497934}
@@ -88835,8 +88899,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1028
   indentLevel: 0
-  storyText: "Questions aside, I know that this map could be the first step to learning
-    more about my immortality, and if I\u2019m lucky, the first step towards a cure.\r\n"
+  storyText: 'Questions aside, I know that this map could be the first step to learning
+    more about my immortality.
+
+'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -90743,10 +90809,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1149
   indentLevel: 0
-  storyText: 'I held the feather in my hand all the way back. Still not quite believing
-    that now, I have this one shred of hope.
-
-'
+  storyText: 'I held the feather in my hand all the way back. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -91292,7 +91355,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4268.01
     y: 937.0282
-    width: 92.44899
+    width: 98.076935
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -92101,7 +92164,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4480.394
     y: 1006.4258
-    width: 89.183685
+    width: 94.23078
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -92182,7 +92245,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4313.713
     y: 1070.6436
-    width: 102.24491
+    width: 109.6154
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -92264,7 +92327,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4143.7607
     y: 1068.7173
-    width: 85.91838
+    width: 92.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -92346,7 +92409,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4114.3745
     y: 975.06274
-    width: 72.85715
+    width: 76.92308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -93522,7 +93585,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3181.4324
     y: 246.04959
-    width: 103.87756
+    width: 109.6154
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -94238,7 +94301,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3308.1665
     y: 354.00394
-    width: 128.36737
+    width: 140.38464
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -94249,9 +94312,12 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207499020}
   - {fileID: 6826194887207498646}
+  - {fileID: 6826194887207499183}
   - {fileID: 6826194887207498645}
   - {fileID: 6826194887207498644}
+  - {fileID: 6826194887207499184}
   - {fileID: 6826194887207498643}
+  - {fileID: 6826194887207499185}
   - {fileID: 6826194887207498654}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207498637
@@ -94548,7 +94614,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3042.6184
     y: 349.45175
-    width: 147.95921
+    width: 165.38464
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -94564,6 +94630,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498650}
   - {fileID: 6826194887207498649}
   - {fileID: 6826194887207498648}
+  - {fileID: 6826194887207499182}
   - {fileID: 6826194887207498929}
   - {fileID: 6826194887207498647}
   - {fileID: 6826194887207498930}
@@ -94854,7 +94921,7 @@ MonoBehaviour:
   itemId: 1279
   indentLevel: 0
   storyText: "As it turns out, there are all kinds of archives that I didn\u2019t
-    know existed before. And now, I have a good reason to peek into them.\r\n"
+    know existed before. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -94881,11 +94948,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1278
   indentLevel: 0
-  storyText: 'I will admit that I had a minor ulterior motive when I agreed. I hoped
-    that it would give me more reason to sneak around town and hopefully learn more
-    about The Forgotten.
-
-'
+  storyText: "I will admit that I had a minor ulterior motive when I agreed. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -94942,8 +95005,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1276
   indentLevel: 0
-  storyText: "I walk through the village with purpose, on my way to meet with other
-    literate townspeople. Our leader has been interested in lawmaking\u2026\r\n"
+  storyText: 'I walk through the village with purpose, on my way to meet with other
+    literate townspeople. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -94997,9 +95060,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1274
   indentLevel: 0
-  storyText: "I know I can\u2019t avoid them forever. I know. But right now, when
-    I haven\u2019t even come to terms with the fact that I will have to watch them
-    all-\r\n"
+  storyText: "I know I can\u2019t avoid them forever. I know.\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -95192,7 +95253,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3183.1665
     y: 428.9855
-    width: 118.57145
+    width: 119.23079
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -95532,7 +95593,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3391.113
     y: 515.9149
-    width: 87.551025
+    width: 92.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -95576,7 +95637,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3186.2915
     y: 524.298
-    width: 118.57145
+    width: 126.923096
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -95621,7 +95682,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2983.1665
     y: 480.205
-    width: 92.44899
+    width: 98.076935
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -95637,6 +95698,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498999}
   - {fileID: 6826194887207498920}
   - {fileID: 6826194887207498688}
+  - {fileID: 6826194887207499186}
   - {fileID: 6826194887207498918}
   - {fileID: 6826194887207498686}
   - {fileID: 6826194887207498687}
@@ -96151,7 +96213,7 @@ MonoBehaviour:
   itemId: 1305
   indentLevel: 0
   storyText: "Great! It\u2019ll be good to have you. Hasn\u2019t been the same without
-    you. Even Hashur stepped up and handled negotiations this time.\r\n"
+    you. "
   description: 
   character: {fileID: 769302403}
   portrait: {fileID: 0}
@@ -96341,7 +96403,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3186.5383
     y: 624.2979
-    width: 133.26532
+    width: 142.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -96963,7 +97025,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 1863862518}
 --- !u!114 &6826194887207498717
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -97112,7 +97174,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3349.059
     y: 714.3812
-    width: 157.75513
+    width: 176.92311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -97145,7 +97207,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3002.9053
     y: 722.8602
-    width: 138.1633
+    width: 151.9231
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -97720,7 +97782,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3183.2642
     y: 1004.5034
-    width: 126.73472
+    width: 134.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -97735,10 +97797,12 @@ MonoBehaviour:
   - {fileID: 6826194887207498742}
   - {fileID: 6826194887207498738}
   - {fileID: 6826194887207498748}
+  - {fileID: 6826194887207499190}
   - {fileID: 6826194887207498880}
   - {fileID: 6826194887207498747}
   - {fileID: 6826194887207498882}
   - {fileID: 6826194887207498752}
+  - {fileID: 6826194887207499191}
   - {fileID: 6826194887207498751}
   - {fileID: 6826194887207498857}
   - {fileID: 6826194887207498745}
@@ -97749,6 +97813,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498878}
   - {fileID: 6826194887207498749}
   - {fileID: 6826194887207498741}
+  - {fileID: 6826194887207499192}
   - {fileID: 6826194887207498760}
   - {fileID: 6826194887207498759}
   suppressAllAutoSelections: 0
@@ -98054,8 +98119,7 @@ MonoBehaviour:
   itemId: 1368
   indentLevel: 0
   storyText: ' I scan the waters for Uli, eager for the chance to talk to him about
-    the scroll he gave me - surely he knew about immortality, and somehow he knew
-    about me.
+    the scroll he gave me.
 
 '
   description: 
@@ -98166,8 +98230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1372
   indentLevel: 0
-  storyText: ' Can you wait around for Uli, then? Everything is already set with
-    him.
+  storyText: 'Can you wait around for Uli, then? Everything is already set with him.
 
 '
   description: 
@@ -98252,8 +98315,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1374
   indentLevel: 0
-  storyText: After a few trips to and from the storehouse, other traders begin to
-    find their way down to the riverbank. Hashur is among them.
+  storyText: 'After a few trips to and from the storehouse, other traders begin to
+    find their way down to the riverbank. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -98362,8 +98425,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1376
   indentLevel: 0
-  storyText: " I woke up a bit early, so yes - I decided to get everything ready
-    for you. Just tell me where you need me, and I\u2019ll be there.\r\n"
+  storyText: ' I woke up a bit early, so yes - I decided to get everything ready
+    for you.
+
+'
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -98417,7 +98482,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4129.181
     y: -226.1834
-    width: 115.30614
+    width: 121.15386
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -98454,7 +98519,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4300.3574
     y: 7.6574707
-    width: 170.81636
+    width: 192.30772
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -98474,8 +98539,10 @@ MonoBehaviour:
   - {fileID: 6826194887207499107}
   - {fileID: 6826194887207499106}
   - {fileID: 6826194887207499096}
+  - {fileID: 6826194887207499197}
   - {fileID: 6826194887207499098}
   - {fileID: 6826194887207499102}
+  - {fileID: 6826194887207499198}
   - {fileID: 6826194887207499105}
   - {fileID: 6826194887207499097}
   - {fileID: 6826194887207499100}
@@ -98659,7 +98726,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4012.4463
     y: 21.293797
-    width: 112.04083
+    width: 121.15386
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -98673,12 +98740,14 @@ MonoBehaviour:
   - {fileID: 6826194887207499089}
   - {fileID: 6826194887207499088}
   - {fileID: 6826194887207498768}
+  - {fileID: 6826194887207499195}
   - {fileID: 6826194887207498767}
   - {fileID: 6826194887207498765}
   - {fileID: 6826194887207498965}
   - {fileID: 6826194887207498964}
   - {fileID: 6826194887207498962}
   - {fileID: 6826194887207498961}
+  - {fileID: 6826194887207499196}
   - {fileID: 6826194887207498960}
   - {fileID: 6826194887207498959}
   - {fileID: 6826194887207498958}
@@ -98790,7 +98859,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4153.413
     y: 84.07378
-    width: 92.44899
+    width: 100.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -98803,6 +98872,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498795}
   - {fileID: 6826194887207499129}
   - {fileID: 6826194887207498794}
+  - {fileID: 6826194887207499199}
   - {fileID: 6826194887207498793}
   - {fileID: 6826194887207499132}
   - {fileID: 6826194887207498792}
@@ -98857,9 +98927,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1780
   indentLevel: 0
-  storyText: "I don\u2019t stay to argue. I sprint down the shoreline, doing my best
-    to avoid oncoming attackers, my feet tripping over themselves and the uneven
-    sand beneath them.\r\n"
+  storyText: "I don\u2019t stay to argue\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -99532,7 +99600,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4129.682
     y: 159.23386
-    width: 136.53064
+    width: 142.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -99746,11 +99814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1419
   indentLevel: 0
-  storyText: 'Our eyes locked when I called him. He was scuffed, sheltering a younger
-    boy under him, trying to help the townspeople fight back. I ran to him as fast
-    as I could.
-
-'
+  storyText: "Our eyes locked when I called him. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -100324,7 +100388,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3887.735
     y: 358.946
-    width: 175.71432
+    width: 190.38466
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -100334,6 +100398,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 6826194887207498837}
+  - {fileID: 6826194887207499204}
   - {fileID: 6826194887207498943}
   - {fileID: 6826194887207498838}
   - {fileID: 6826194887207498944}
@@ -100358,7 +100423,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4348.1514
     y: 346.82904
-    width: 120.2041
+    width: 126.923096
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -100382,12 +100447,14 @@ MonoBehaviour:
   - {fileID: 6826194887207498827}
   - {fileID: 6826194887207498985}
   - {fileID: 6826194887207498826}
+  - {fileID: 6826194887207499213}
   - {fileID: 6826194887207498984}
   - {fileID: 6826194887207498986}
   - {fileID: 6826194887207498983}
   - {fileID: 6826194887207498825}
   - {fileID: 6826194887207498824}
   - {fileID: 6826194887207498823}
+  - {fileID: 6826194887207499207}
   - {fileID: 6826194887207498845}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207498818
@@ -100941,7 +101008,7 @@ MonoBehaviour:
   itemId: 1825
   indentLevel: 1
   storyText: "Murmurs of dissent bubbled up - I heard no, don\u2019t be ridiculous,
-    and there must be an explanation. But it wasn\u2019t enough.\r\n"
+    and there must be an explanation. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -100968,8 +101035,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1469
   indentLevel: 0
-  storyText: "The world moved in slow motion. My mother screamed and I could feel
-    my father\u2019s anguish. Everything else stilled.\r\n"
+  storyText: "The world moved in slow motion. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -101368,7 +101434,7 @@ MonoBehaviour:
   itemId: 1455
   indentLevel: 0
   storyText: "But he didn\u2019t look back. He backed up, slowly, like a frightened
-    rabbit, until he melted into the crowd. I choked on a shuddering breath.\r\n"
+    rabbit, until he melted into the crowd.\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -101479,7 +101545,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4312.3315
     y: 533.80457
-    width: 89.183685
+    width: 94.23078
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -101489,6 +101555,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 6826194887207498866}
+  - {fileID: 6826194887207499211}
   - {fileID: 6826194887207498865}
   - {fileID: 6826194887207498989}
   - {fileID: 6826194887207498864}
@@ -101516,7 +101583,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4146.1724
     y: 425.28262
-    width: 89.183685
+    width: 94.23078
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -101525,6 +101592,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 6826194887207499212}
   - {fileID: 6826194887207498843}
   - {fileID: 6826194887207498840}
   suppressAllAutoSelections: 0
@@ -101569,7 +101637,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4014.5671
     y: 518.11597
-    width: 76.12245
+    width: 80.76924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -101580,8 +101648,10 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498849}
   - {fileID: 6826194887207498848}
+  - {fileID: 6826194887207499208}
   - {fileID: 6826194887207498847}
   - {fileID: 6826194887207498855}
+  - {fileID: 6826194887207499210}
   - {fileID: 6826194887207498979}
   - {fileID: 6826194887207498854}
   - {fileID: 6826194887207498990}
@@ -101589,6 +101659,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498981}
   - {fileID: 6826194887207498852}
   - {fileID: 6826194887207498851}
+  - {fileID: 6826194887207499209}
   - {fileID: 6826194887207498980}
   - {fileID: 6826194887207498850}
   - {fileID: 6826194887207498982}
@@ -101682,8 +101753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1478
   indentLevel: 0
-  storyText: "I let out a scream that I didn\u2019t know I was capable of making.
-    My hands found a bludgeon and then found the person who let the arrow fly."
+  storyText: "I let out a scream that I didn\u2019t know I was capable of making. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -101767,8 +101837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1484
   indentLevel: 0
-  storyText: 'And before they could protest, I pushed them into the boat, using my
-    back as a shield for the rest of the arrows coming our way.
+  storyText: 'And before they could protest,
 
 '
   description: 
@@ -101881,10 +101950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1482
   indentLevel: 0
-  storyText: 'My dad took down a man who attacked her. I searched desperately for
-    a way to get them out of this.
-
-'
+  storyText: 'My dad took down a man who attacked her. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -102384,8 +102450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1492
   indentLevel: 0
-  storyText: 'I knew I had to go. I let more arrows pierce me, trying to block the
-    screams of my parents out of my mind.
+  storyText: 'I knew I had to go.
 
 '
   description: 
@@ -102458,7 +102523,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4158.618
     y: 594.97943
-    width: 107.14287
+    width: 111.53848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -104922,7 +104987,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4374.5693
     y: 807.72375
-    width: 76.12245
+    width: 75.00001
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -105173,7 +105238,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4113.8174
     y: 244.41046
-    width: 174.08167
+    width: 190.38466
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -105184,15 +105249,21 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207499115}
   - {fileID: 6826194887207498822}
+  - {fileID: 6826194887207499200}
   - {fileID: 6826194887207499114}
   - {fileID: 6826194887207499109}
   - {fileID: 6826194887207499110}
+  - {fileID: 6826194887207499201}
   - {fileID: 6826194887207498818}
   - {fileID: 6826194887207499118}
+  - {fileID: 6826194887207499202}
   - {fileID: 6826194887207499113}
   - {fileID: 6826194887207499116}
+  - {fileID: 6826194887207499203}
   - {fileID: 6826194887207499111}
   - {fileID: 6826194887207499117}
+  - {fileID: 6826194887207499206}
+  - {fileID: 6826194887207499205}
   - {fileID: 6826194887207498821}
   - {fileID: 6826194887207498820}
   - {fileID: 6826194887207498819}
@@ -105380,10 +105451,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1790
   indentLevel: 0
-  storyText: 'In the distance, I see my parents shepherding children and elders into
-    nearby buildings. I pump my legs as hard as I can to reach them.
-
-'
+  storyText: "In the distance, I see my parents shepherding children and elders into
+    nearby buildings. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -108064,12 +108133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1678
   indentLevel: 0
-  storyText: 'Taking life used to make me appreciate mine much more - now it just
-    makes me think of how I will outlive everything I have ever known.
-
-
-
-'
+  storyText: "Taking life used to make me appreciate mine much more - \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -108124,10 +108188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1676
   indentLevel: 0
-  storyText: 'Even when the people who own them are gone, the items stay. This way,
-    thousands of pieces of me will always remain, no matter where I go.
-
-'
+  storyText: "Even when the people who own them are gone, the items stay. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -108256,9 +108317,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 3190.379
+    x: 3191.9414
     y: 870.9709
-    width: 120.2041
+    width: 128.84618
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -108270,6 +108331,7 @@ MonoBehaviour:
   - {fileID: 6826194887207499039}
   - {fileID: 6826194887207499038}
   - {fileID: 6826194887207499044}
+  - {fileID: 6826194887207499187}
   - {fileID: 6826194887207499047}
   - {fileID: 6826194887207499035}
   - {fileID: 6826194887207499037}
@@ -108278,7 +108340,9 @@ MonoBehaviour:
   - {fileID: 6826194887207499049}
   - {fileID: 6826194887207499036}
   - {fileID: 6826194887207499042}
+  - {fileID: 6826194887207499188}
   - {fileID: 6826194887207499045}
+  - {fileID: 6826194887207499189}
   - {fileID: 6826194887207499048}
   - {fileID: 6826194887207499033}
   suppressAllAutoSelections: 0
@@ -109125,10 +109189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1690
   indentLevel: 1
-  storyText: 'Cuts of meat have already been prepared and preserved. Hashur seems
-    to have been busy in my absence.
-
-'
+  storyText: "Cuts of meat have already been prepared and preserved. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -109185,11 +109246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1688
   indentLevel: 1
-  storyText: 'The crops I planted weeks ago have shrivelled - Hashur tended to most
-    of them, but I suppose not all of them could make it.
-
-
-'
+  storyText: "The crops I planted weeks ago have shrivelled \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -109216,8 +109273,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1693
   indentLevel: 1
-  storyText: "I felt guilty - he doesn\u2019t like to slaughter the animals. I don\u2019t,
-    either. But it seems unfair to make him, with limited life, have to take another\u2019s.\r\n"
+  storyText: "I felt guilty - he doesn\u2019t like to slaughter the animals. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -109635,7 +109691,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4150.272
     y: -53.011776
-    width: 123.469406
+    width: 132.69232
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -110141,7 +110197,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4339.7324
     y: -137.58882
-    width: 125.10206
+    width: 134.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -110153,6 +110209,7 @@ MonoBehaviour:
   - {fileID: 6826194887207499078}
   - {fileID: 6826194887207499122}
   - {fileID: 6826194887207499084}
+  - {fileID: 6826194887207499194}
   - {fileID: 6826194887207499121}
   - {fileID: 6826194887207499083}
   - {fileID: 6826194887207499079}
@@ -110173,7 +110230,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4163.733
     y: -133.69142
-    width: 121.836754
+    width: 132.69232
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -110185,6 +110242,7 @@ MonoBehaviour:
   - {fileID: 6826194887207499070}
   - {fileID: 6826194887207499124}
   - {fileID: 6826194887207499082}
+  - {fileID: 6826194887207499193}
   - {fileID: 6826194887207499123}
   - {fileID: 6826194887207499081}
   - {fileID: 6826194887207499080}
@@ -110205,7 +110263,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3971.327
     y: -138.80469
-    width: 112.04083
+    width: 121.15386
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -111314,9 +111372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1768
   indentLevel: 0
-  storyText: "Please, Uli. I feel like I\u2019m losing my mind. The sooner I figure
-    out what\u2019s going on here, the sooner I\u2019ll be able to focus on fulfilling
-    our trades.\r\n"
+  storyText: "Please, Uli. I feel like I\u2019m losing my mind. "
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -111370,8 +111426,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1770
   indentLevel: 0
-  storyText: "I\u2019m not playing games. This is my life we\u2019re talking about,
-    and I\u2019m not going to put up with your crypticness today"
+  storyText: "I\u2019m not playing games. "
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -111717,10 +111772,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1813
   indentLevel: 0
-  storyText: 'Yes. The trade routes - they want to control these parts of the rivers.
-    Even though we formed a treaty.
-
-'
+  storyText: 'Yes. The trade routes - they want to control these parts of the rivers. '
   description: 
   character: {fileID: 824542796}
   portrait: {fileID: 0}
@@ -111889,9 +111941,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1817
   indentLevel: 0
-  storyText: 'Most of the traders had taken up arms and were fighting back. The porters
-    were closing in, too, cutting off the waterways and denying the assailants an
-    escape route.
+  storyText: 'Most of the traders had taken up arms and were fighting back.
 
 '
   description: 
@@ -112459,10 +112509,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1836
   indentLevel: 1
-  storyText: 'Is that why your crops always grow, even in drought? Have you been
-    selling us poisoned food, trying to keep us off your trail?
-
-'
+  storyText: "Is that why your crops always grow, even in drought? \n"
   description: 
   character: {fileID: 2083132292}
   portrait: {fileID: 0}
@@ -113246,8 +113293,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1843
   indentLevel: 1
-  storyText: "It\u2019s no wonder you can kill your livestock so easily. What\u2019s
-    the value of life to someone tainted by evil?\r\n"
+  storyText: "It\u2019s no wonder you can kill your livestock so easily. \n"
   description: 
   character: {fileID: 2083132292}
   portrait: {fileID: 0}
@@ -113274,9 +113320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1841
   indentLevel: 0
-  storyText: 'My heart was pounding again. Someone took aim at me. Not the invaders,
-    no, my own townspeople looked at me like I was a monster. And the arrows levelled
-    at my head proved it.
+  storyText: 'My heart was pounding again. Someone took aim at me.  it.
 
 '
   description: 
@@ -113305,10 +113349,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1842
   indentLevel: 1
-  storyText: 'I always thought the things you made were occult. Have you been hexing
-    our jewels and tools right under our noses?
-
-'
+  storyText: 'I always thought the things you made were occult. '
   description: 
   character: {fileID: 2083132292}
   portrait: {fileID: 0}
@@ -114032,6 +114073,1863 @@ MonoBehaviour:
   fadeDuration: 0
   waitUntilFinished: 0
   audioSourceOLD: {fileID: 0}
+--- !u!114 &6826194887207499147
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1883
+  indentLevel: 0
+  storyText: "I\u2019d better make quick work of the lock, or I really will be late!\r\n\n"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499148
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1882
+  indentLevel: 0
+  storyText: "they just make me think of how I\u2019ll have a whole eternity of time
+    to myself.\r\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499149
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1886
+  indentLevel: 0
+  storyText: This way, thousands of pieces of me will always remain, no matter where
+    I go.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499150
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1885
+  indentLevel: 0
+  storyText: "On the other side of the rivers, everything from jewelry to tools goes
+    for a decent price.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499151
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1884
+  indentLevel: 0
+  storyText: 'They bring all kinds of things from the other sides of the river -
+    sometimes spices, sometimes silks.
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499152
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1887
+  indentLevel: 0
+  storyText: 'now it just makes me think of how I will outlive everything I have
+    ever known.
+
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499153
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1890
+  indentLevel: 0
+  storyText: 'Maybe find somewhere to trade the rest of our wares?
+
+'
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499154
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1889
+  indentLevel: 0
+  storyText: 'That was really sweet of him to do, especially since I have been so
+    stressed as of late.
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499155
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1888
+  indentLevel: 0
+  storyText: "But teenage boys aren\u2019t usually known for their initiative."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499156
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1892
+  indentLevel: 0
+  storyText: "Oh, and a whole box of those necklaces that you\u2019d said were in
+    demand.\r\n"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499157
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1891
+  indentLevel: 0
+  storyText: "Many in our town are wary of him\u2026\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1893
+  indentLevel: 0
+  storyText: I let Hashur handle the unplanned trades this time, since he was extra
+    helpful this morning.
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1894
+  indentLevel: 0
+  storyText: "You and I both know that you haven\u2019t learned to read yet.\r\n\n"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1895
+  indentLevel: 0
+  storyText: "Win an arm wrestle against me right now, and I\u2019ll let this go,
+    no questions!\r"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1896
+  indentLevel: 0
+  storyText: "You won\u2019t last a minute against me with those twig arms of yours.\r\n"
+  description: 
+  character: {fileID: 1214148667}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1897
+  indentLevel: 0
+  storyText: "You can\u2019t even read yet, so leave it alone, okay?\r"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1898
+  indentLevel: 0
+  storyText: " I thought it was just something you were using to practise, I didn\u2019t
+    realize you were writing. I swear.\r"
+  description: 
+  character: {fileID: 1214148667}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1905
+  indentLevel: 0
+  storyText: But tonight...
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1904
+  indentLevel: 0
+  storyText: "But tonight\u2026"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1903
+  indentLevel: 0
+  storyText: "But tonight\u2026\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1902
+  indentLevel: 0
+  storyText: "Those dark circles under your eyes won\u2019t get any better if you
+    keep this up.\r\n"
+  description: 
+  character: {fileID: 435928197}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1057877581}
+--- !u!114 &6826194887207499168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1901
+  indentLevel: 0
+  storyText: "My hand itched to write and record the confliction that\u2019s been
+    running free in my mind.\r\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1900
+  indentLevel: 0
+  storyText: 'Did you take the free trades into your own hands today?
+
+'
+  description: 
+  character: {fileID: 435928197}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1057877581}
+--- !u!114 &6826194887207499170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1899
+  indentLevel: 0
+  storyText: "This new agreement will help both our towns\u2026 plus, some of the
+    townspeople who haven\u2019t established themselves yet.\r\n"
+  description: 
+  character: {fileID: 769302403}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1906
+  indentLevel: 0
+  storyText: " I felt every cell in my body split and then vanish entirely. Hours
+    passed of this metamorphosis\u2026\r\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1908
+  indentLevel: 0
+  storyText: '{i}We are the same - our hearts beat to an identical rhythm.{/i}'
+  description: 
+  character: {fileID: 1429617018}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1057877581}
+--- !u!114 &6826194887207499173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1907
+  indentLevel: 0
+  storyText: "There were so many feelings weighing me down, but the thing I was most
+    worried about was\u2026"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1909
+  indentLevel: 0
+  storyText: '{i} I seek mortality. {/i}
+
+'
+  description: 
+  character: {fileID: 1429617018}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1057877581}
+--- !u!114 &6826194887207499175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1910
+  indentLevel: 0
+  storyText: "{i} But I have located one, in a village of sand and waterways.\r\r{/i}\n"
+  description: 
+  character: {fileID: 1429617018}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1057877581}
+--- !u!114 &6826194887207499176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1911
+  indentLevel: 0
+  storyText: "And if I\u2019m lucky, the first step towards a cure.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1912
+  indentLevel: 0
+  storyText: " Clearly this map came to me for a reason, and if I can learn even
+    a bit more about immortality, it\u2019ll be worth it.\r\n"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1913
+  indentLevel: 0
+  storyText: ' The temperature drops with every step I take.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1914
+  indentLevel: 0
+  storyText: " It doesn\u2019t look like anyone has been here in a long while.\r\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1915
+  indentLevel: 0
+  storyText: "Like I had seen it before.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1916
+  indentLevel: 0
+  storyText: 'Still not quite believing that now, I have this one shred of hope.
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1917
+  indentLevel: 0
+  storyText: "But right now, when I haven\u2019t even come to terms with the fact
+    that I will have to watch them all-\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1918
+  indentLevel: 0
+  storyText: "Our leader has been interested in lawmaking\u2026\r\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1919
+  indentLevel: 0
+  storyText: I hoped that it would give me more reason to sneak around town and hopefully
+    learn more about The Forgotten.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1920
+  indentLevel: 0
+  storyText: 'And now, I have a good reason to peek into them.
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1921
+  indentLevel: 0
+  storyText: 'Even Hashur stepped up and handled negotiations this time.
+
+'
+  description: 
+  character: {fileID: 769302403}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1922
+  indentLevel: 1
+  storyText: 'Hashur tended to most of them, but I suppose not all of them could
+    make it.
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1923
+  indentLevel: 1
+  storyText: Hashur seems to have been busy in my absence.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1924
+  indentLevel: 1
+  storyText: "I don\u2019t, either. But it seems unfair to make him, with limited
+    life, have to take another\u2019s.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1925
+  indentLevel: 0
+  storyText: Hashur is among them.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1926
+  indentLevel: 0
+  storyText: "Just tell me where you need me, and I\u2019ll be there.\r"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1927
+  indentLevel: 0
+  storyText: Surely he knew about immortality, and somehow he knew about me.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 0
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1928
+  indentLevel: 0
+  storyText: "The sooner I figure out what\u2019s going on here, the sooner I\u2019ll
+    be able to focus on fulfilling our trades.\r\n"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1929
+  indentLevel: 0
+  storyText: "This is my life we\u2019re talking about, and I\u2019m not going to
+    put up with your crypticness today"
+  description: 
+  character: {fileID: 2008555265}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1863862518}
+--- !u!114 &6826194887207499195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1930
+  indentLevel: 0
+  storyText: ". I sprint down the shoreline, doing my best to avoid oncoming attackers,
+    my feet tripping over themselves and the uneven sand beneath them.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1931
+  indentLevel: 0
+  storyText: I pump my legs as hard as I can to reach them.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1932
+  indentLevel: 0
+  storyText: 'Even though we formed a treaty.
+
+'
+  description: 
+  character: {fileID: 824542796}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1933
+  indentLevel: 0
+  storyText: ' The porters were closing in, too, cutting off the waterways and denying
+    the assailants an escape route.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1934
+  indentLevel: 0
+  storyText: He was scuffed, sheltering a younger boy under him, trying to help the
+    townspeople fight back. I ran to him as fast as I could.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1935
+  indentLevel: 1
+  storyText: "But it wasn\u2019t enough.\r\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1936
+  indentLevel: 1
+  storyText: Have you been selling us poisoned food, trying to keep us off your trail?
+  description: 
+  character: {fileID: 2083132292}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1937
+  indentLevel: 1
+  storyText: 'Have you been hexing our jewels and tools right under our noses?
+
+'
+  description: 
+  character: {fileID: 2083132292}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1938
+  indentLevel: 1
+  storyText: "What\u2019s the value of life to someone tainted by evil?\r"
+  description: 
+  character: {fileID: 2083132292}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 1793705700}
+--- !u!114 &6826194887207499204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1941
+  indentLevel: 0
+  storyText: " I choked on a shuddering breath.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1940
+  indentLevel: 0
+  storyText: And the arrows levelled at my head proved it.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1939
+  indentLevel: 0
+  storyText: Not the invaders, no, my own townspeople looked at me like I was a monster.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1942
+  indentLevel: 0
+  storyText: "My mother screamed and I could feel my father\u2019s anguish. Everything
+    else stilled.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1943
+  indentLevel: 0
+  storyText: My hands found a bludgeon and then found the person who let the arrow
+    fly.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1945
+  indentLevel: 0
+  storyText: ' I pushed them into the boat, using my back as a shield for the rest
+    of the arrows coming our way.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1944
+  indentLevel: 0
+  storyText: 'I searched desperately for a way to get them out of this.
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &6826194887207499211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1946
+  indentLevel: 0
+  storyText: ' I let more arrows pierce me, trying to block the screams of my parents
+    out of my mind.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 2005277953}
+--- !u!114 &6826194887207499212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc30c92f7ffe3d746ac76cd528d616e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1948
+  indentLevel: 0
+  control: 1
+  _audioSource:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 1708568948}
+  startVolume: 1
+  endVolume: 1
+  fadeDuration: 0
+  waitUntilFinished: 0
+  audioSourceOLD: {fileID: 0}
+--- !u!114 &6826194887207499213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826194887207497897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc30c92f7ffe3d746ac76cd528d616e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1947
+  indentLevel: 0
+  control: 2
+  _audioSource:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 1708568948}
+  startVolume: 1
+  endVolume: 1
+  fadeDuration: 0
+  waitUntilFinished: 0
+  audioSourceOLD: {fileID: 0}
 --- !u!114 &6826194887207501568
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -114271,7 +116169,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -919.2267
     y: 197.7548
-    width: 121.836754
+    width: 134.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -114455,7 +116353,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -130.84105
     y: -107.76208
-    width: 95.714294
+    width: 100.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -114465,6 +116363,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 6826194887207501613}
+  - {fileID: 6826194887207499154}
   - {fileID: 6826194887207498192}
   - {fileID: 6826194887207498996}
   - {fileID: 6826194887207498018}
@@ -114496,7 +116395,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 169.90576
     y: -105.18997
-    width: 108.77553
+    width: 117.30771
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -114525,7 +116424,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 27.635681
     y: -102.792946
-    width: 107.14287
+    width: 111.53848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -114644,10 +116543,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 263
   indentLevel: 0
-  storyText: 'I reached out and hugged my brother, much to his dismay. That was really
-    sweet of him to do, especially since I have been so stressed as of late.
-
-'
+  storyText: 'I reached out and hugged my brother, much to his dismay. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -114786,7 +116682,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -901.0074
     y: -79.085106
-    width: 72.85715
+    width: 76.92308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -114900,7 +116796,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1016.12366
     y: -99.294304
-    width: 123.469406
+    width: 134.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115007,7 +116903,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -434.7977
     y: -239.77647
-    width: 130.00003
+    width: 138.46156
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115021,6 +116917,7 @@ MonoBehaviour:
   - {fileID: 6826194887207499136}
   - {fileID: 6826194887207498047}
   - {fileID: 6826194887207498036}
+  - {fileID: 6826194887207499148}
   - {fileID: 6826194887207498613}
   - {fileID: 6826194887207498043}
   - {fileID: 6826194887207498532}
@@ -115029,6 +116926,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498039}
   - {fileID: 6826194887207498531}
   - {fileID: 6826194887207498035}
+  - {fileID: 6826194887207499147}
   - {fileID: 6826194887207498076}
   - {fileID: 6826194887207498041}
   - {fileID: 6826194887207498994}
@@ -115050,7 +116948,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 40.88534
     y: -212.24745
-    width: 100.61226
+    width: 105.76924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115091,7 +116989,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -922.6677
     y: -147.88928
-    width: 123.469406
+    width: 130.76926
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115157,11 +117055,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 151.08353, y: 405.89664}
+  scrollPos: {x: -3009.9016, y: 86.08771}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 280
-  zoom: 0.48999986
+  zoom: 0.51999986
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -115169,7 +117067,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 6826194887207497933}
+  - {fileID: 6826194887207498869}
   selectedCommands: []
   variables:
   - {fileID: 6826194887207501769}
@@ -115372,7 +117270,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1082.8931
     y: -150.68443
-    width: 108.77553
+    width: 113.461555
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115404,7 +117302,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -925.6808
     y: 4.3161182
-    width: 134.89798
+    width: 144.2308
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115442,7 +117340,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1079.9976
     y: 6.618778
-    width: 82.65307
+    width: 88.46155
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115498,7 +117396,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -745.5306
     y: 9.513355
-    width: 116.9388
+    width: 126.923096
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -115860,7 +117758,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 510.47052
     y: -230.02986
-    width: 139.79594
+    width: 150.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -116045,7 +117943,7 @@ MonoBehaviour:
   itemId: 293
   indentLevel: 0
   storyText: "Uli is an odd fellow - he doesn\u2019t really stick to the regular
-    trade routes that most porters do. Many in our town are wary of him\u2026\r\n"
+    trade routes that most porters do. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -116205,7 +118103,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 220.36221
     y: 112.77258
-    width: 97.346954
+    width: 103.84617
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -116348,7 +118246,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -0.37495995
     y: -0.10041189
-    width: 159.38779
+    width: 173.07697
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -116363,6 +118261,7 @@ MonoBehaviour:
   - {fileID: 6826194887207501785}
   - {fileID: 6826194887207498007}
   - {fileID: 6826194887207501784}
+  - {fileID: 6826194887207499153}
   - {fileID: 6826194887207498006}
   - {fileID: 6826194887207501791}
   - {fileID: 6826194887207501788}
@@ -116380,6 +118279,7 @@ MonoBehaviour:
   - {fileID: 6826194887207498001}
   - {fileID: 6826194887207501764}
   - {fileID: 6826194887207501765}
+  - {fileID: 6826194887207499157}
   - {fileID: 6826194887207501770}
   - {fileID: 6826194887207501815}
   - {fileID: 6826194887207501818}
@@ -116484,7 +118384,7 @@ MonoBehaviour:
   itemId: 282
   indentLevel: 0
   storyText: " Perfect. I\u2019ll finish the deal with him - would you like to have
-    a look around? Maybe find somewhere to trade the rest of our wares?\r\n"
+    a look around? "
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -117401,7 +119301,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 29.761225
     y: 93.57242
-    width: 92.44899
+    width: 98.076935
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -117412,6 +119312,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 6826194887207498078}
   - {fileID: 6826194887207501816}
+  - {fileID: 6826194887207499156}
   - {fileID: 6826194887207501820}
   suppressAllAutoSelections: 0
 --- !u!114 &6826194887207501811
@@ -117430,7 +119331,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -135.31317
     y: 119.122635
-    width: 92.44899
+    width: 98.076935
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -117985,8 +119886,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 309
   indentLevel: 0
-  storyText: "I brought some of this month\u2019s finished projects. Oh, and a whole
-    box of those necklaces that you\u2019d said were in demand.\r\n"
+  storyText: "I brought some of this month\u2019s finished projects. "
   description: 
   character: {fileID: 2008555265}
   portrait: {fileID: 0}
@@ -118136,7 +120036,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -8.261059
     y: 206.6572
-    width: 169.18372
+    width: 184.61542
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
